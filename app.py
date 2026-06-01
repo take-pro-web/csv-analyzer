@@ -4,7 +4,6 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
-import japanize_matplotlib
 
 st.set_page_config(page_title="CSV分析ツール", layout="wide")
 st.title("📊 CSV自動分析ツール")
